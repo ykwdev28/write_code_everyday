@@ -12,3 +12,4 @@
 | 2025-08-09 | ログファイル修正 | README.md |  |
 | 2025-08-09 | ログファイル修正 | python/20250809_typing/typing_practice.py | python |
 | 2025-08-09 | ログファイル修正 | python/20250810_typing/typing_practice.py | python |
+| 2025-08-10 | sort function | python/20250810_sort/sort.py | python |
