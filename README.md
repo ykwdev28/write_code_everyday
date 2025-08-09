@@ -8,9 +8,10 @@
 
 ---
 
-## 運用ルール
+## 運用方法
 
-### 1. 毎日コードを書きコミットする
+### 1. ルール
+- 毎日コードを書きコミットする
 - 小さなコードでもOK。ただしできるだけ有益なコードを目指すこと
 - GitHubで管理すること
 
@@ -48,11 +49,11 @@ write_code_everyday/
 ```markdown
 | Date       | What                | Path                                      | Tags         |
 |------------|---------------------|-------------------------------------------|--------------|
-| 2025-08-08 | PythonでFizzBuzz実装 | Python/20250808_fizzbuzz/main.py           | python, kata |
-| 2025-08-09 | 日付処理の練習       | Python/20250809_datetime_practice/main.py  | datetime     |
+| 2025-08-08 | PythonでFizzBuzz実装 | Python/20250808_fizzbuzz/main.py          | python, kata |
+| 2025-08-09 | 日付処理の練習        | Python/20250809_datetime_practice/main.py | datetime     |
 ```
 
-5. commit-msg フック
+### 5. commit-msg フック
 コミット時に自動で日付を付与し、Daily Logに記録します
 
 コマンド例：`
